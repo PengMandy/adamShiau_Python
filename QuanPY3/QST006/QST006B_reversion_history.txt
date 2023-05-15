@@ -1,6 +1,0 @@
-2020-8-31 v1.01
-1. 加時間軸
-2. add TEST MODE
-
-2020-8-21 v1.0
-QST006B first version

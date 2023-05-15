@@ -1,1 +1,0 @@
-ERROR: COMPort, MainThread, 23428, Can't Find the COM Port
